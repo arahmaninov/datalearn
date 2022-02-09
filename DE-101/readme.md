@@ -1,7 +1,7 @@
 **My progress:**
 <!-- TODO-IST:START -->
 * [x] Module 1 Роль аналитики
-* [ ] Module 2
+* [x] Module 2 Базы данных и SQL
 * [ ] Module 3
 * [ ] Module 4
 * [ ] Module 5
